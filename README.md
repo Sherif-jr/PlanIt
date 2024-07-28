@@ -28,10 +28,10 @@ To install and run the project locally, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
+```bash
    git clone https://github.com/Sherif-jr/PlanIt.git
 
-   ```
+```
 
 2. **Navigate to the project directory**
 
@@ -73,4 +73,5 @@ Will be added.
 5. Typescript
 
 ## APK File
+
 [Preview Build](https://expo.dev/artifacts/eas/hwBaxz9VsnkXU5MN5vxQV8.apk)
