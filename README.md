@@ -75,3 +75,4 @@ Will be added.
 ## APK File
 
 [Preview Build](https://expo.dev/artifacts/eas/hwBaxz9VsnkXU5MN5vxQV8.apk)
+[GDrive](https://drive.google.com/file/d/14iGQX8qzV8B336Gxu07yPItpsyC633li/view?usp=sharing)
